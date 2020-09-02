@@ -27,7 +27,7 @@
   ## 6   - INSTALAR O commitlint cli e a configuracao do conventional
     yarn add @commitlint/config-conventional @commitlint/cli -D
   ## 7   - CONFIGURAR O COMMITLINT P/ USAR A CONFIGURAÇÃO DO CONVENTIONAL 
-    `echo "module.exports = {extends: ['@commitlint/config-conventional']}" > commitlint.config.js`
+    echo "module.exports = {extends: ['@commitlint/config-conventional']}" > commitlint.config.js
   ## 8   - ADD O HUSKY P/ INFORMAR PRO COMMITLINT QUE ELE PRECISA SER EXECUTADO DEPOIS DO COMMIT (`git commit`)
     yarn add husky -D
   ## 9   - CRIAR UM ARQUIVO `.gitignore` e colocar a pasta `node_modules` nele
