@@ -14,7 +14,7 @@
 
 ### PRATICA
 
-  1   - CRIAR UMA PASTA VAZIA
+  ##1   - CRIAR UMA PASTA VAZIA
     `mkdir lintcommit`
   2   - ACESSAR A PASTA CRIADA
     `cd lintcommit`
